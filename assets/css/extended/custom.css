@@ -1,11 +1,11 @@
 
 /* additional css to the them for preferred styles */
 em {
-    color: rgb(231, 163, 214);
+    color: rgb(214, 170, 203);
 }
 
 strong {
-    color: rgb(226, 128, 128);
+    color: rgb(224, 154, 154);
 }
 
 /* h1 {
@@ -16,7 +16,7 @@ strong {
 
 .gradient-text {
     /* Fallback: Set a background color. */
-    background-color: #f88286;
+    background-color: #ffa1a5;
     
     /* Create the gradient. */
      background-image: linear-gradient(

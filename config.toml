@@ -1,7 +1,8 @@
 baseURL = "https://rgbclouds.github.io/"
 title = "rgb clouds"
 paginate = 5
-theme = "PaperMod"
+theme = ["PaperMod"]
+custom_css = ["additional.css"]
 
 [minify]
 disableXML = true

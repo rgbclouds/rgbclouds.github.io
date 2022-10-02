@@ -21,6 +21,7 @@ Favourite singers:
 
 - {{< colouredText "green" "欅坂46"  >}}
 - {{< colouredText "pink" "櫻坂46"  >}}
+- testing
 
 Camera:
 

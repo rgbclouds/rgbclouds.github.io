@@ -22,7 +22,8 @@ Favourite singers:
 - {{< colouredText "green" "欅坂46"  >}}
 - {{< colouredText "pink" "櫻坂46"  >}}
 
-Camera:
+Gears:
 
 - Fuji XT-3 with prime lenses (23mm, 35mm, 56mm)
+- MacBook Pro 14" M1 Pro
   

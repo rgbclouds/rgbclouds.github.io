@@ -1,8 +1,7 @@
 baseURL = "https://rgbclouds.github.io/"
-title = "rgb clouds"
+title = "rgb clouds."
 paginate = 5
 theme = ["PaperMod"]
-custom_css = ["additional.css"]
 
 [minify]
 disableXML = true
@@ -15,6 +14,7 @@ description = "ExampleSite description"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "mr taylor"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
+# css = ["css/additional.css"]
 DateFormat = "2 January, 2006"
 defaultTheme = "dark"
 disableThemeToggle = true

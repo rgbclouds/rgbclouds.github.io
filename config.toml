@@ -1,3 +1,79 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://rgbclouds.github.io/"
+title = "rgb clouds"
+paginate = 5
+theme = "PaperMod"
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "ExampleSite"
+description = "ExampleSite description"
+keywords = [ "Blog", "Portfolio", "PaperMod" ]
+author = "mr taylor"
+images = [ "<link or path of image for opengraph, twitter-cards>" ]
+DateFormat = "2 January, 2006"
+defaultTheme = "dark"
+disableThemeToggle = true
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = false
+ShowWordCount = false
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = true
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+  [params.profileMode]
+  enabled = false
+  title = "ExampleSite"
+  subtitle = "This is subtitle"
+  imageUrl = "<img location>"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "my image"
+
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
+
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+  [params.homeInfoParams]
+  Title = "Hi there 👋"
+  Content = "I will show you spectacles?"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/rgbclouds"
+
+  [[params.socialIcons]]
+  name = "instagram"
+  url = "https://instagram.com/taylorlorlor"
+
+
+[[menu.main]]
+identifier = "me"
+name = "me"
+url = "/me/"
+weight = 10
+
+# [[menu.main]]
+# identifier = "things"
+# name = "things"
+# url = "/things/"
+# weight = 10
+
+[markup.highlight]
+noClasses = false

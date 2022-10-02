@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on rgb clouds</title>
+    <link>https://rgbclouds.github.io/posts/</link>
+    <description>Recent content in Posts on rgb clouds</description>
+    <image>
+      <url>https://rgbclouds.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://rgbclouds.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 Oct 2022 00:18:30 +0100</lastBuildDate><atom:link href="https://rgbclouds.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prelude</title>
+      <link>https://rgbclouds.github.io/posts/prelude/</link>
+      <pubDate>Sun, 02 Oct 2022 00:18:30 +0100</pubDate>
+      
+      <guid>https://rgbclouds.github.io/posts/prelude/</guid>
+      <description>I finally made my first website (with templates and guidelines). I hope to write about algorithms I studied or am going to research on. My research focuses on image reconstruction for biomedical and astronomical imaging through optimisation algorithms and deep learning. I am interested in photography, gaming, music and travelling.
+Through this website, I want to research on algorithms that would help me improve image quality of the photos I take, such as denoising and deblurring.</description>
+    </item>
+    
+  </channel>
+</rss>

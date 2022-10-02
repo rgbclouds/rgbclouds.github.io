@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://rgbclouds.github.io/me/</loc>
+    <lastmod>2022-10-02T00:29:28+01:00</lastmod>
+  </url><url>
+    <loc>https://rgbclouds.github.io/posts/</loc>
+    <lastmod>2022-10-02T00:18:30+01:00</lastmod>
+  </url><url>
+    <loc>https://rgbclouds.github.io/posts/prelude/</loc>
+    <lastmod>2022-10-02T00:18:30+01:00</lastmod>
+  </url><url>
+    <loc>https://rgbclouds.github.io/</loc>
+    <lastmod>2022-10-02T00:18:30+01:00</lastmod>
+  </url><url>
+    <loc>https://rgbclouds.github.io/categories/</loc>
+  </url><url>
+    <loc>https://rgbclouds.github.io/tags/</loc>
+  </url>
+</urlset>
